@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Easy Ride</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Easy Ride</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jul 2022 22:00:00 +0000</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Ride</title>
+      <link>/portfolio/makeup-element/</link>
+      <pubDate>Mon, 11 Jul 2022 22:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/makeup-element/</guid>
+      <description>About this ride EasyRide offers a unique way to experience Victoria Falls and its breathtaking views in a fun and active way.
+During the 1 to 2 hour scooter tour you will get the opportunity to ride down to three points of attraction,The first stop is at the famous Big Tree site (Large Boabab tree),there after you will then scoot on to a section of the zambezi river bank for a stop and view.</description>
+    </item>
+    
+    <item>
+      <title>Scooter RCC</title>
+      <link>/portfolio/table-design/</link>
+      <pubDate>Mon, 11 Jul 2022 22:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/table-design/</guid>
+      <description>About Easy-Ride Easy Ride offers a unique way to experience Victoria Falls and its breathtaking views in a fun and active way.
+During the 1 to 2 hour scooter tour you will get the opportunity to ride down to three points of attraction,The first stop is at the famous Big Tree site (Large Baobab tree),thereafter you will then scoot on to a section of the Zambezi river bank for a stop and view.</description>
+    </item>
+    
+    <item>
+      <title>Scooter Ride</title>
+      <link>/portfolio/shopping-bag-concept/</link>
+      <pubDate>Mon, 11 Jul 2022 22:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/shopping-bag-concept/</guid>
+      <description>About Easy-Ride Easy Ride offers a unique way to experience Victoria Falls and its breathtaking views in a fun and active way.
+During the 1 to 2 hour scooter tour you will get the opportunity to ride down to three points of attraction,The first stop is at the famous Big Tree site (Large Baobab tree),thereafter you will then scoot on to a section of the Zambezi river bank for a stop and view.</description>
+    </item>
+    
+  </channel>
+</rss>
