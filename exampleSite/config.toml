@@ -1,6 +1,9 @@
-baseURL = "https://demo.gethugothemes.com/timer/site/"
+# baseURL = "https://easyride-fb58c.web.app/timer/site/" 
+# baseURL = "https://demo.gethugothemes.com/timer/site/"
+
+baseURL = ""
 languageCode = "en-us"
-title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+title = "Easy Ride"
 theme = "timer-hugo"
 # post pagination
 paginate = "2" # see https://gohugo.io/extras/pagination/
@@ -28,24 +31,25 @@ name = "Gallery"
 url = "gallery/"
 weight = 4
 
-[[menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 5
+# [[menu.main]]
+# name = "Blog"
+# url = "blog/"
+# weight = 5
 
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 5
 
 # Site Params
 [params]
 home = "Home"
-logo = "images/logo.png"
+# logo = "images/logo.png"
+logo = "images/easyride/ico.jpg" 
 dateFormat = "6 January 2006"
 # Meta data
-description = "Timer Hugo theme"
-author = "Themefisher"
+description = "EasyRide Seervices"
+author = "Redemption"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # contact form action
@@ -54,47 +58,49 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable = true
-bgImage = "images/slider.jpg"
-heading = "HI, MY NAME IS JONATHON & I AM A"
-description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+bgImage = "images/easyride/scootours.jpg"
+# heading = "HI, MY NAME IS MTABISI & I AM A"
+description = "EasyRide offers a unique way to experience Victoria Falls and its breathtaking views in a fun and active way."
 # button
 btn = true
-btnText = "Download More"
-btnURL = "https://themefisher.com/"
+btnText = "View Services"
+btnURL = "https://www.facebook.com/easyride1"
 
 # flip text
 [[params.banner.flipText]]
 title = "DESIGNER"
 [[params.banner.flipText]]
-title = "DEVELOPER"
+title = "SPORTER"
 [[params.banner.flipText]]
-title = "FATHER"
+title = "SCOUTERS & RIDERS"
+[[params.banner.flipText]]
 
 # Homepage About Section
 [params.about]
 enable = true
-title = "ABOUT ME"
-content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
-image = "images/about/about.jpg"
+title = "EasyRide (Electronic Scooter Tours)"
+content = "EasyRide offers a unique way to experience Victoria Falls and its breathtaking views in a fun and active way. During the 1 to 2 hour scooter tour you will get the opportunity to ride down to three points of attraction. <br><br> The first stop is at the famous Big Tree site (Large Boabab tree),there after you will then scoot on to a section of the zambezi river bank for a stop and view. <br><br> The experience then continues to the Victoria Falls bridge for a final view of the magnificent zambezi river and Gorge bellow. Note;The Tour starts from the Victoria falls information center and ends at the same place."
+image = "images/easyride/1.jpeg" 
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable = true
+title = "Scoutours Experiences"
+subtitle = "Jump on a Monster Mountain® Scooter and Freewheel into the city below! Scootours® offer a unique way to experience Cape Town’s Table Mountain and its breathtaking views in a fun and active way. During the 1.5 to 2 hour Scootours you will get the opportunity the freewheel down two different off road tracks. The first track runs down the side of Signal Hill all the way into Bo Kaap. After getting picked up by our vehicle in Bo Kaap. The Experience continues as you are transported to Victoria Falls for your final run down the lower slopes off this world-famous land mark!"
+image = "images/easyride/9.jpeg"
 
 # Call to Action
 [params.cta]
 enable = true
 title = "SO WHAT YOU THINK ?"
-content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+content = "Please contact us for more information about our services."
 btnText = "Contact with me"
 btnURL = "contact/"
-
-# Portfolio Section On Homepage
-[params.portfolio]
-enable = true
-title = "Latest Works"
-subtitle = "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
 # social icon
 [[params.socialIcon]]
 icon = "ion-social-facebook"
-url = "#"
+url = "https://www.facebook.com/easyride1"
 
 [[params.socialIcon]]
 icon = "ion-social-instagram"
@@ -102,4 +108,12 @@ url = "#"
 
 [[params.socialIcon]]
 icon = "ion-social-linkedin"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-whatsapp"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-youtube"
 url = "#"

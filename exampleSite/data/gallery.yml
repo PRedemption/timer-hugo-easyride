@@ -1,8 +1,11 @@
 enable  : true
 galleryImages :
-  - image : images/portfolio/item-1.jpg
-  - image : images/portfolio/item-2.jpg
-  - image : images/portfolio/item-3.jpg
-  - image : images/portfolio/item-4.jpg
-  - image : images/portfolio/item-5.jpg
-  - image : images/portfolio/item-6.jpg
+  - image : images/easyride/6.jpeg
+  - image : images/easyride/7.jpeg
+  - image : images/easyride/8.jpeg
+  - image : images/easyride/9.jpeg
+  - image : images/easyride/images.jpeg
+  - image : images/easyride/scootours.jpg
+  - image : images/easyride/5.jpeg
+  - image : images/easyride/3.jpeg
+  - image : images/easyride/2.jpeg

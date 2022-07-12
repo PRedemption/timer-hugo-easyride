@@ -1,13 +1,13 @@
 enable  : true
 title   : OUR HAPPY CLIENTS
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.
+subtitle: We are so grateful for the pleasure of serving you and hope we met your expectations.
 clientsLogo:
-  - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
-  - image : images/clients/logo-1.jpg
+  - image : images/clients/happyclient1.jpg
+  - image : images/clients/happy2.jpg
+  - image : images/clients/happy3.jpg
+  - image : images/clients/happy4.jpg
+  - image : images/clients/happy5.jpeg
+  - image : images/clients/happy7.jpeg
   - image : images/clients/logo-2.jpg
   - image : images/clients/logo-3.jpg
   - image : images/clients/logo-4.jpg
