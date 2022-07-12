@@ -1,0 +1,23 @@
+enable  : true
+title   : What do we offer ot our clients
+subtitle: Jump on a Monster Mountain® Scooter and Freewheel into the city below! Scootours® offer a unique way to experience.
+image   : images/easyride/4.jpeg
+serviceItem :
+  - icon  : ion-ios-paper-outline
+    title : Scootours
+    description: >
+      EasyRide offers a unique way to experience Victoria Falls and its breathtaking views in a fun and active way.
+
+  - icon  : ion-ios-pint-outline
+    title : DESIGN
+    description: >
+      Tour design for Scooter and tour design for clients.
+  - icon  : ion-ios-paper-outline
+    title : DEVELOPMENT
+    description: >
+      Scooter DEVELOPMENT foe scouter for clients
+
+  - icon  : ion-ios-paper-outline
+    title : THEMEING
+    description: >
+      Environments THEMEING for clients.
